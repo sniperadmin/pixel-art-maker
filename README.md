@@ -7,9 +7,15 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+I already built out the app's functionality.
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+Just open the index.html on your browser, choose the width and height for the grid system and submit!
+Too easy! yeah?! now you can specify any color you want from the color picker and start clicking on each
+cell to color it.
+
+you can reset by submitting the form again with the dimensions you want!
 
 ## Contributing
 

@@ -4,11 +4,11 @@
 // When size is submitted by the user, call makeGrid()
 
 //global variables
-let btn         =   document.getElementById("action"),
-    cw          =   document.getElementById('inputWidth'),
-    ch          =   document.getElementById('inputHeight'),    
-    table       =   document.getElementById('pixelCanvas'),
-    color       =   document.getElementById('colorPicker');
+let btn = document.getElementById("action"),
+    cw = document.getElementById('inputWidth'),
+    ch = document.getElementById('inputHeight'),    
+    table = document.getElementById('pixelCanvas'),
+    color = document.getElementById('colorPicker');
 
 //**********************************************************
 
